@@ -13,6 +13,7 @@
 		5CEA5939207E450C0097B510 /* What_sTheWeather.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5CEA5937207E450C0097B510 /* What_sTheWeather.xcdatamodeld */; };
 		5CEA593B207E450C0097B510 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CEA593A207E450C0097B510 /* Assets.xcassets */; };
 		5CEA593E207E450C0097B510 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CEA593C207E450C0097B510 /* LaunchScreen.storyboard */; };
+		5CEA5946207E45FE0097B510 /* mountain.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5CEA5945207E45FE0097B510 /* mountain.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5CEA593A207E450C0097B510 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CEA593D207E450C0097B510 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5CEA593F207E450C0097B510 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CEA5945207E45FE0097B510 /* mountain.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mountain.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5CEA5932207E450C0097B510 /* ViewController.swift */,
 				5CEA5934207E450C0097B510 /* Main.storyboard */,
 				5CEA593A207E450C0097B510 /* Assets.xcassets */,
+				5CEA5945207E45FE0097B510 /* mountain.jpeg */,
 				5CEA593C207E450C0097B510 /* LaunchScreen.storyboard */,
 				5CEA593F207E450C0097B510 /* Info.plist */,
 				5CEA5937207E450C0097B510 /* What_sTheWeather.xcdatamodeld */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CEA5946207E45FE0097B510 /* mountain.jpeg in Resources */,
 				5CEA593E207E450C0097B510 /* LaunchScreen.storyboard in Resources */,
 				5CEA593B207E450C0097B510 /* Assets.xcassets in Resources */,
 				5CEA5936207E450C0097B510 /* Main.storyboard in Resources */,
